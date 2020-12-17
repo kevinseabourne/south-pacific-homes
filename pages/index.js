@@ -6,5 +6,7 @@ const Title = styled.h1`
 `;
 
 export default function Home() {
-  return <Title>Start UP</Title>;
+  return <Main>We up Baby !!!</Main>;
 }
+
+const Main = styled.main``;
